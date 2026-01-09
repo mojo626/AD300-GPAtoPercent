@@ -7,7 +7,6 @@ public class Main {
 
         System.out.print("Input GPA: ");
         String gpa = input.next();
-        System.out.println("GPA: " + gpa);
 
         switch (gpa) {
             case "4.0":
